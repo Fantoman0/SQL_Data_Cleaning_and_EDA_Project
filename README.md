@@ -173,33 +173,9 @@ where Ranking <= 5;
 - 2023 marked the peak for big tech, with Google (12,000) and Microsoft (10,000) leading — highlighting how even industry giants were not immune.
 - Amazon appears twice (2022 & 2023) in the top rankings, signaling consistent large-scale restructuring over multiple years.
 
+![Yearly Company Layoffs](SQL_Project/yoy_companies_layoffs.jpg)
 
-| Company     | Year | Total Laid Off | Ranking |
-|-------------|------|----------------|---------|
-| Uber        | 2020 | 7,525          | 1       |
-| Booking.com | 2020 | 4,375          | 2       |
-| Groupon     | 2020 | 2,800          | 3       |
-| Swiggy      | 2020 | 2,250          | 4       |
-| Airbnb      | 2020 | 1,900          | 5       |
-| Bytedance   | 2021 | 3,600          | 1       |
-| Katerra     | 2021 | 2,434          | 2       |
-| Zillow      | 2021 | 2,000          | 3       |
-| Instacart   | 2021 | 1,877          | 4       |
-| WhiteHat Jr | 2021 | 1,800          | 5       |
-| Meta        | 2022 | 11,000         | 1       |
-| Amazon      | 2022 | 10,150         | 2       |
-| Cisco       | 2022 | 4,100          | 3       |
-| Peloton     | 2022 | 4,084          | 4       |
-| Carvana     | 2022 | 4,000          | 5       |
-| Philips     | 2022 | 4,000          | 5       |
-| Google      | 2023 | 12,000         | 1       |
-| Microsoft   | 2023 | 10,000         | 2       |
-| Ericsson    | 2023 | 8,500          | 3       |
-| Amazon      | 2023 | 8,000          | 4       |
-| Salesforce  | 2023 | 8,000          | 4       |
-| Dell        | 2023 | 6,650          | 5       |
-
-*Companies with the Largest Layoffs by Year*
+*This graph represents top 5 Companies with the Largest Layoffs by Year*
 ### 6. Layoffs by Company Stage: Number of Companies, total layoffs, and Average layoffs per Company
 ```sql
 SELECT 
