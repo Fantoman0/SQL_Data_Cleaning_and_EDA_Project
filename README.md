@@ -175,7 +175,7 @@ where Ranking <= 5;
 
 ![Yearly Company Layoffs](SQL_Project/yoy_companies_layoffs.jpg)
 
-*This graph represents top 5 Companies with the Largest Layoffs by Year*
+*This graph represents the top 5 companies with the highest layoffs each year, highlighting shifting impacts across industries from 2020 to 2023*
 ### 6. Layoffs by Company Stage: Number of Companies, total layoffs, and Average layoffs per Company
 ```sql
 SELECT 
