@@ -1,4 +1,4 @@
-# SQL_Data_Cleaning_and_EDA_Project
+# SQL Data Cleaning and EDA Project
 ## Introduction
 This project focuses on analyzing a global layoffs dataset using SQL. The dataset provides information about layoffs across industries, countries, company stages, and time periods. The aim was to clean the raw data, explore it with structured queries, and extract meaningful insights into global employment trends, particularly in the tech and startup ecosystem.
 ## Project Overview
